@@ -1,0 +1,12 @@
+[project]
+name = "ai-agent-playground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "duckduckgo-search>=7.1.1",
+    "ollama>=0.4.4",
+    "phidata>=2.7.5",
+    "ruff>=0.8.4",
+]
