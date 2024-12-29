@@ -1,0 +1,8 @@
+line-length = 120
+target-version = "py313"
+
+[lint.isort]
+case-sensitive = true
+
+[lint.pydocstyle]
+convention = "google"
